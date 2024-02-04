@@ -1,0 +1,13 @@
+tipo:gas-1:1000:100.0
+tipo:gas-3:3000:300.0
+tipo:gas-2:2000:200.0
+tipo:gas-4:4000:400.0
+surtidor:Empleado-3:gas-1:0.0:gas-3:0.0:gas-2:0.0:gas-4:0.0
+surtidor:Empleado-3:gas-1:0.0:gas-3:0.0:gas-2:0.0:gas-4:0.0
+surtidor:Empleado-5:gas-1:0.0:gas-3:0.0:gas-2:0.0:gas-4:0.0
+surtidor:Empleado-3:gas-1:0.0:gas-3:0.0:gas-2:0.0:gas-4:0.0
+empleado:Empleado-4:0
+empleado:Empleado-5:0
+empleado:Empleado-2:0
+empleado:Empleado-3:0
+empleado:Empleado-1:0
